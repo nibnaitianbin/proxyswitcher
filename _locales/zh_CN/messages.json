@@ -1,0 +1,44 @@
+{
+  "proxyModeNone": {
+    "message": "不使用代理服务器"
+  },
+  "proxyModeAutoDetect": {
+    "message": "自动检测此网络的代理设置"
+  },
+  "proxyModeSystem": {
+    "message": "使用系统代理设置"
+  },
+  "proxyModeManual": {
+    "message": "手动配置代理"
+  },
+  "proxyModeAutoConfig": {
+    "message": "自动代理配置的URL"
+  },
+  "tooltipNone": {
+    "message": "ProxySwitcher — 不使用代理服务器"
+  },
+  "tooltipAutoDetect": {
+    "message": "ProxySwitcher — 自动检测代理设置"
+  },
+  "tooltipSystem": {
+    "message": "ProxySwitcher — 使用系统代理设置"
+  },
+  "tooltipManual": {
+    "message": "ProxySwitcher — 手动配置代理"
+  },
+  "tooltipAutoConfig": {
+    "message": "ProxySwitcher — 自动代理配置URL"
+  },
+  "errorReadProxy": {
+    "message": "无法读取代理状态"
+  },
+  "errorSwitchProxy": {
+    "message": "切换失败"
+  },
+  "errorPrivateBrowsing": {
+    "message": "需要在 Firefox 中启用隐私浏览权限。\n请在地址栏输入 about:addons，找到 ProxySwitcher，\n将\"在隐私窗口中运行\"设为\"允许\"。"
+  },
+  "errorAutoConfigUrlMissing": {
+    "message": "请先在 Firefox 设置中配置 PAC URL。\n打开 about:preferences → 网络设置 → 自动代理配置的 URL。"
+  }
+}

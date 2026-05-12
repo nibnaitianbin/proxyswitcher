@@ -1,0 +1,44 @@
+{
+  "proxyModeNone": {
+    "message": "No Proxy"
+  },
+  "proxyModeAutoDetect": {
+    "message": "Auto-detect proxy settings"
+  },
+  "proxyModeSystem": {
+    "message": "Use system proxy settings"
+  },
+  "proxyModeManual": {
+    "message": "Manual proxy configuration"
+  },
+  "proxyModeAutoConfig": {
+    "message": "Automatic proxy configuration URL"
+  },
+  "tooltipNone": {
+    "message": "ProxySwitcher — No Proxy"
+  },
+  "tooltipAutoDetect": {
+    "message": "ProxySwitcher — Auto-detect proxy"
+  },
+  "tooltipSystem": {
+    "message": "ProxySwitcher — System proxy"
+  },
+  "tooltipManual": {
+    "message": "ProxySwitcher — Manual proxy"
+  },
+  "tooltipAutoConfig": {
+    "message": "ProxySwitcher — PAC URL"
+  },
+  "errorReadProxy": {
+    "message": "Unable to read proxy status"
+  },
+  "errorSwitchProxy": {
+    "message": "Switch failed"
+  },
+  "errorPrivateBrowsing": {
+    "message": "Private browsing permission required.\nOpen about:addons, find ProxySwitcher,\nset \"Run in Private Windows\" to \"Allow\"."
+  },
+  "errorAutoConfigUrlMissing": {
+    "message": "Please configure a PAC URL in Firefox settings first.\nOpen about:preferences → Network Settings → Automatic proxy configuration URL."
+  }
+}

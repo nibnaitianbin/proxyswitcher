@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <!-- Dark rounded square background -->
+  <rect width="96" height="96" rx="20" fill="#2b2a33"/>
+  
+  <!-- Toggle track (pill shape, subtle gray) -->
+  <rect x="16" y="36" width="64" height="24" rx="12" fill="#5b5b66"/>
+  
+  <!-- Toggle knob (circle pushed right = ON state) -->
+  <circle cx="68" cy="48" r="16" fill="#0060df"/>
+  
+  <!-- White checkmark inside knob -->
+  <polyline points="62,48 66,52 74,43" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
